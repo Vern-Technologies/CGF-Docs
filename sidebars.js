@@ -1,7 +1,16 @@
 module.exports = {
-  someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
-    Tracker_Web: ['mdx']
-  },
+  docs: [
+    {
+      type: 'category',
+      label: 'Tracker Web',
+      items: ['tracker-web/settings', 'tracker-web/password_standards'],
+      collapsed: false,
+    },
+    {
+      type: 'category',
+      label: 'Docusaurus',
+      items: ['doc1', 'doc2', 'doc3',],
+      collapsed: true,
+    }
+  ]
 };

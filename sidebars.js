@@ -3,7 +3,8 @@ module.exports = {
     {
       type: 'category',
       label: 'Tracker Web',
-      items: ['tracker-web/settings', 'tracker-web/password_standards'],
+      items: ['tracker-web/customers', 'tracker-web/containers', 'tracker-web/users', 'tracker-web/settings', 
+      'tracker-web/password_standards'],
       collapsed: false,
     },
     {

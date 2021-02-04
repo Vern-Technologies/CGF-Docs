@@ -17,7 +17,7 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: 'docs/tracker_web/customers',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',

@@ -21,7 +21,7 @@ The containers page breaks containers down into three sections.
   - **Due in:** Is the containers that are currently at a customer's location within their designated pickup date.
   - **Not Working:** Is the containers that aren't currently at a customer's location and aren't in service.
 
-<img src="../../static/img/tracker-web/containers.png" alt="Containers Page" width="100%"/>
+<img src={require('@site/static/img/tracker-web/containers.png').default} alt="Containers Page" width="100%"/>
 
 ---
 
@@ -31,7 +31,7 @@ To create a new container, you first need to select on the create container butt
 
 ##### Create Container Button
 
-<img src="../../static/img/tracker-web/containers_buttons_add.png" alt="Create Container Button" width="30%"/>
+<img src={require('@site/static/img/tracker-web/containers_buttons_add.png').default} alt="Create Container Button" width="30%"/>
 
 <br/><br/>
 
@@ -39,7 +39,7 @@ With the Create Container Form opened, enter your containers information and sel
 
 ##### Create Container Form
 
-<img src="../../static/img/tracker-web/containers_create.png" alt="Create Container Form" width="40%"/>
+<img src={require('@site/static/img/tracker-web/containers_create.png').default} alt="Create Container Form" width="40%"/>
 
 ---
 
@@ -49,7 +49,7 @@ To remove a container, you first need to select on the remove container button t
 
 ##### Remove Container Button
 
-<img src="../../static/img/tracker-web/containers_buttons_remove.png" alt="Remove Container Button" width="30%"/>
+<img src={require('@site/static/img/tracker-web/containers_buttons_remove.png').default} alt="Remove Container Button" width="30%"/>
 
 <br/><br/>
 
@@ -61,6 +61,6 @@ Once a Container is deleted, this action can't be <Highlight color="#25c2a0">**U
 
 ##### Remove Container Form
 
-<img src="../../static/img/tracker-web/containers_remove.png" alt="Remove Container Form" width="50%"/>
+<img src={require('@site/static/img/tracker-web/containers_remove.png').default} alt="Remove Container Form" width="50%"/>
 
 ---

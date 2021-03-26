@@ -1,13 +1,13 @@
 module.exports = {
   title: 'CGF Documentation',
   tagline: '',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://Vern-Technologies.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: '', // Usually your GitHub org/user name.
-  projectName: '', // Usually your repo name.
+  organizationName: 'Vern-Technologies', //GitHub org/user name.
+  projectName: 'CGF-Docs', // repo name.
   themeConfig: {
     navbar: {
       title: 'CGF DOCS',
@@ -94,7 +94,7 @@ module.exports = {
           items: [
             {
               label: 'Docs',
-              to: 'docs',
+              to: 'docs/tracker_web/customers',
             },
             {
               label: 'Blog',

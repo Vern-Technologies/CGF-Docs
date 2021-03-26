@@ -19,33 +19,57 @@ Password Standards are a set of guild lines that helps in preventing attacks, br
 Created passwords are not allowed to contain quotation marks or whitespaces and are required to contain at least one lowercase, uppercase, numeric, and special character.
 :::
 
+---
+
 ### Quotations:
 
 Quotations, also known as quotation marks, are punctuation marks used in paris in various writing systems to set off direct speech. 
+
+**Created passwords are not allowed to contain quotations.**
+
+---
 
 ### Whitespaces:
 
 Whitespaces are the horizontal spacing between words and are commonly entered on a computer with the spacebar.
 
+**Created passwords are not allowed to contain whitespaces.**
+
+---
+
 ### Lowercase Characters:
 
 Lowercase characters also known as minuscule characters, are smaller sized characters and have a parallel set of lager sized characters. Lowercase characters are generally used for the letters in all words except for the beginning of a sentence or proper nouns.
 
+**Created passwords are required to contain at least one lowercase character.**
+
 <img src="../../static/img/tracker-web/lowercase.jpeg" alt="Lowercase Letters" width="50%"/>
+
+---
 
 ### Uppercase Characters:
 
 Uppercase characters also known as capital characters, are larger sized characters and have a parallel set of smaller sized characters. Uppercase characters usually signify the beginning of a sentence or a proper noun.
 
+**Created passwords are required to contain at least one uppercase character.**
+
 <img src="../../static/img/tracker-web/uppercase.jpeg" alt="Uppercase Letters" width="50%"/>
+
+---
 
 ### Numeric Characters:
 
 Numeric characters are characters that are a number (0 - 9).
 
+**Created passwords are required to contain at least one numeric character.**
+
+---
+
 ### Special Characters:
 
 Special characters are characters that are not a lowercase, uppercase, or numeric character. Supported special characters include.
+
+**Created passwords are required to contain at least one special character.**
 
 |Name|Character|
 |----|---------|
@@ -71,3 +95,5 @@ Special characters are characters that are not a lowercase, uppercase, or numeri
 |Underscore|_|
 |Asterisk|*|
 |Ampersand|&|
+
+---

@@ -11,7 +11,7 @@ const features = [
   {
     title: 'Asset Tracking',
     link: 'https://www.cgf-llc.com/services/asset-tracking-solutions',
-    imageUrl: 'img/tracking.svg',
+    imageUrl: 'img/services/tracking.svg',
     description: (
       <>
         Do you know where your company devices and assets are? Let CGF take over
@@ -26,7 +26,7 @@ const features = [
   {
     title: 'IIoT with Mythings',
     link: 'https://www.cgf-llc.com/services/iiot-solutions-with-mythings',
-    imageUrl: 'img/IIoT.svg',
+    imageUrl: 'img/services/IIoT.svg',
     description: (
       <>
         The Industrial Internet of Things is frowing faster than ever, but integration
@@ -41,7 +41,7 @@ const features = [
   {
     title: 'Counselors',
     link: 'https://www.cgf-llc.com/services/counselors',
-    imageUrl: 'img/counselors.svg',
+    imageUrl: 'img/services/counselors.svg',
     description: (
       <>
         Our team stands ready to provide responsive counseling and solutions to help your organization
@@ -56,7 +56,7 @@ const features = [
   {
     title: 'Smart Buildings',
     link: 'https://www.cgf-llc.com/services/smart-building-solutions',
-    imageUrl: 'img/building.svg',
+    imageUrl: 'img/services/building.svg',
     description: (
       <>
         CGF will transform Smart Building technology into real business value for your operation.
@@ -72,7 +72,7 @@ const features = [
   {
     title: 'IBM Visual Inspection',
     link: 'https://www.cgf-llc.com/services/ibm-visual-inspection',
-    imageUrl: 'img/inspection.svg',
+    imageUrl: 'img/services/inspection.svg',
     description: (
       <>
         Whether you manufacture small devices or automobiles, CGF and IBM are ready to team up
@@ -122,7 +122,7 @@ function Home() {
   return (
     <Layout
       title={customFields.tab_title}
-      description="Description will go into a meta tag in <head />">
+      description="CGF Documentation Website">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>

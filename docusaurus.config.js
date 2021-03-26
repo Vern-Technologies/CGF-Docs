@@ -2,7 +2,7 @@ module.exports = {
   title: 'CGF Documentation',
   tagline: '',
   url: 'https://Vern-Technologies.github.io',
-  baseUrl: '/',
+  baseUrl: '/CGF-Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

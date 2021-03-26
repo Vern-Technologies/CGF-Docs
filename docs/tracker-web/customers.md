@@ -15,7 +15,7 @@ export const Highlight = ({children, color}) => ( <span style={{
 
 The customers page is for managing the customers that you service. This is how the system tracks data between customers and allows for deeper insights into meta data individualized between your customers.
 
-<img src="../../static/img/tracker-web/customers.png" alt="Customers Page" width="100%"/>
+<img src={require('@site/static/img/tracker-web/customers.png').default} alt="Customers Page" width="100%"/>
 
 ---
 
@@ -25,7 +25,7 @@ To create a new customer, you first need to select on the create customer button
 
 ##### Create Customer Button
 
-<img src="../../static/img/tracker-web/customers_buttons_add.png" alt="Create Customer Button" width="30%"/>
+<img src={require('@site/static/img/tracker-web/customers_buttons_add.png').default} alt="Create Customer Button" width="30%"/>
 
 <br/><br/>
 
@@ -37,7 +37,7 @@ The <Highlight color="#25c2a0">**Days Till Pickup**</Highlight> section in the C
 
 ##### Create Customer Form
 
-<img src="../../static/img/tracker-web/customers_create.png" alt="Create Customer Form" width="40%"/>
+<img src={require('@site/static/img/tracker-web/customers_create.png').default} alt="Create Customer Form" width="40%"/>
 
 ---
 
@@ -47,7 +47,7 @@ To remove a customer, you first need to select on the remove customer button to 
 
 ##### Remove Customer Button
 
-<img src="../../static/img/tracker-web/customers_buttons_remove.png" alt="Remove Customer Button" width="30%"/>
+<img src={require('@site/static/img/tracker-web/customers_buttons_remove.png').default} alt="Remove Customer Button" width="30%"/>
 
 <br/><br/>
 
@@ -59,6 +59,6 @@ Once a Customer is deleted, this action can't be <Highlight color="#25c2a0">**UN
 
 ##### Remove Customer Form
 
-<img src="../../static/img/tracker-web/customers_remove.png" alt="Remove Customer Form" width="50%"/>
+<img src={require('@site/static/img/tracker-web/customers_remove.png').default} alt="Remove Customer Form" width="50%"/>
 
 ---

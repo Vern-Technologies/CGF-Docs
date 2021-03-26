@@ -15,7 +15,7 @@ export const Highlight = ({children, color}) => ( <span style={{
 
 The users page is for managing employees at your company that have access to the Tracker Mobile application for your account to process container transactions for pickups and drop offs. Ideally, this would be the truck drives for your company that do the pickups and drop offs of containers.
 
-<img src="../../static/img/tracker-web/users.png" alt="Users Page" width="100%"/>
+<img src={require('@site/static/img/tracker-web/users.png').default} alt="Users Page" width="100%"/>
 
 ---
 
@@ -25,7 +25,7 @@ To create a new user, you first need to select on the create user button to open
 
 ##### Create User Button
 
-<img src="../../static/img/tracker-web/users_buttons_add.png" alt="Create User Button" width="30%"/>
+<img src={require('@site/static/img/tracker-web/users_buttons_add.png').default} alt="Create User Button" width="30%"/>
 
 <br/><br/>
 
@@ -37,7 +37,7 @@ The password entered <Highlight color="#25c2a0">**MUST**</Highlight> match in bo
 
 ##### Create User Form
 
-<img src="../../static/img/tracker-web/users_create.png" alt="Create User Form" width="40%"/>
+<img src={require('@site/static/img/tracker-web/users_create.png').default} alt="Create User Form" width="40%"/>
 
 ---
 
@@ -47,7 +47,7 @@ To remove a user, you first need to select on the remove user button to open the
 
 ##### Remove User Button
 
-<img src="../../static/img/tracker-web/users_buttons_remove.png" alt="Remove User Button" width="30%"/>
+<img src={require('@site/static/img/tracker-web/users_buttons_remove.png').default} alt="Remove User Button" width="30%"/>
 
 <br/><br/>
 
@@ -59,6 +59,6 @@ Once a User is deleted, this action can't be <Highlight color="#25c2a0">**UNDONE
 
 ##### Remove User Form
 
-<img src="../../static/img/tracker-web/users_remove.png" alt="Remove User Form" width="50%"/>
+<img src={require('@site/static/img/tracker-web/users_remove.png').default} alt="Remove User Form" width="50%"/>
 
 ---

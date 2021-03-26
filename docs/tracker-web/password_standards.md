@@ -43,7 +43,7 @@ Lowercase characters also known as minuscule characters, are smaller sized chara
 
 **Created passwords are required to contain at least one lowercase character.**
 
-<img src="../../static/img/tracker-web/lowercase.jpeg" alt="Lowercase Letters" width="50%"/>
+<img src={require('@site/static/img/tracker-web/lowercase.jpeg').default} alt="Lowercase Letters" width="50%"/>
 
 ---
 
@@ -53,7 +53,7 @@ Uppercase characters also known as capital characters, are larger sized characte
 
 **Created passwords are required to contain at least one uppercase character.**
 
-<img src="../../static/img/tracker-web/uppercase.jpeg" alt="Uppercase Letters" width="50%"/>
+<img src={require('@site/static/img/tracker-web/uppercase.jpeg').default} alt="Uppercase Letters" width="50%"/>
 
 ---
 

@@ -23,7 +23,7 @@ To generate QR Codes, you first need to select on the generate QR Codes button o
 
 ##### Generate QR Codes Button
 
-<img src="../../static/img/tracker-web/containers_buttons_qr.png" alt="Generate QR Codes Button" width="30%"/>
+<img src={require('@site/static/img/tracker-web/containers_buttons.png').default} alt="Generate QR Codes Button" width="30%"/>
 
 <br/><br/>
 
@@ -35,7 +35,7 @@ You can search for specific containers by entering the name of the container you
 
 ##### Generate QR Codes Form
 
-<img src="../../static/img/tracker-web/containers_qrcodes.png" alt="Generate QR Codes Form" width="40%"/>
+<img src={require('@site/static/img/tracker-web/containers_qrcodes.png').default} alt="Generate QR Codes Form" width="40%"/>
 
 ---
 
@@ -43,5 +43,6 @@ You can search for specific containers by entering the name of the container you
 
 Once you have selected which containers you want to generate QR Codes for and selected generate on the Generate QR Codes Form, the generate QR Codes process will start. Once the generate QR Codes process finishes, you will be prompted with your browsers download window to choose where you want to download your generated QR Codes to. Generated QR Codes are returned to you in a ZIP file. To access you generated QR Codes, simply unzip the QRCodes.zip file with your devices file manager.
 
-<img src="../../static/img/tracker-web/containers_qrcodes_files.png" alt="QRCodes.zip File" width="40%"/>
+<img src={require('@site/static/img/tracker-web/containers_qrcodes_files.png').default} alt="QRCodes.zip File" width="40%"/>
 
+---

@@ -23,7 +23,7 @@ To generate QR Codes, you first need to select on the generate QR Codes button o
 
 ##### Generate QR Codes Button
 
-<img src={require('@site/static/img/tracker-web/containers_buttons.png').default} alt="Generate QR Codes Button" width="30%"/>
+<img src={require('@site/static/img/tracker-web/containers_buttons_qr.png').default} alt="Generate QR Codes Button" width="30%"/>
 
 <br/><br/>
 

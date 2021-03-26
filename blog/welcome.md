@@ -11,7 +11,7 @@ tags: [Welcome]
 
 The CGF Documentation website is now LIVE!
 
-This website is meant to a centralized place to review documentation and information regarding all of CGF's core services and products.
+This website is meant to be a centralized place to review documentation and information regarding all of CGF's core services and products.
 
 If you can't find what your looking for here for help and general support, you can contact the CGF support team <a href="mailto:support@cgf-llc.com">HERE</a>.
 

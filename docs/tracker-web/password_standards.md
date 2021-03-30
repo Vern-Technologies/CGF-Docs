@@ -23,7 +23,7 @@ Created passwords are not allowed to contain quotation marks or whitespaces and 
 
 ### Quotations:
 
-Quotations, also known as quotation marks, are punctuation marks used in paris in various writing systems to set off direct speech. 
+Quotations, also known as quotation marks, are punctuation marks used in pairs in various writing systems to set off direct speech. 
 
 **Created passwords are not allowed to contain quotations.**
 

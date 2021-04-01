@@ -13,7 +13,7 @@ export const Highlight = ({children, color}) => ( <span style={{
 
 
 
-Password Standards are a set of guild lines that helps in preventing attacks, breeches, loss of data, and unauthorized account access. Our password standards require created passwords on the platform to follow six different rule sets. 
+Password Standards are a set of guidelines that helps in preventing attacks, breeches, loss of data, and unauthorized account access. Our password standards require created passwords on the platform to follow six different rule sets. 
 
 :::important
 Created passwords are not allowed to contain quotation marks or whitespaces and are required to contain at least one lowercase, uppercase, numeric, and special character.

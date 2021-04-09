@@ -19,7 +19,7 @@ The containers page breaks containers down into three sections.
 
   - **Past Due:** Is the containers that are currently at a customer's location past their designated pickup date.
   - **Due in:** Is the containers that are currently at a customer's location within their designated pickup date.
-  - **Not Working:** Is the containers that aren't currently at a customer's location and aren't in service.
+  - **Not Working:** Is the containers that are not currently at a customer's location and are not in service.
 
 <img src={require('@site/static/img/tracker-web/containers.png').default} alt="Containers Page" width="100%"/>
 
@@ -35,7 +35,7 @@ To create a new container, you first need to select on the create container butt
 
 <br/><br/>
 
-With the Create Container Form opened, enter your containers information and select save once all of your containers information is entered to add your container to the system.
+With the Create Container Form opened, enter your container's information and select save once all of your container's information is entered to add your container to the system.
 
 ##### Create Container Form
 
@@ -45,7 +45,7 @@ With the Create Container Form opened, enter your containers information and sel
 
 ### Removing a Container
 
-To remove a container, you first need to select on the remove container button to open the Removing Container Form. 
+To remove a container, you first need to select the remove container button to open the Removing Container Form. 
 
 ##### Remove Container Button
 
@@ -53,7 +53,7 @@ To remove a container, you first need to select on the remove container button t
 
 <br/><br/>
 
-With the Remove Container Form opened, select your container from the Container dropdown list and select delete to remove your container from the system. You also have the option of removing your container's history from your account or not. If you remove your container's history from your account it's history won't be factored in when the system delivers historical based data.
+With the Remove Container Form opened, select your container from the Container dropdown list and select delete to remove your container from the system. You also have the option of removing your container's history from your account or not. If you remove your container's history from your account, its history will not be factored in when the system delivers historical based data.
 
 :::note
 Once a Container is deleted, this action can't be <Highlight color="#25c2a0">**UNDONE**</Highlight> and the system will no longer process transactions for the deleted container.

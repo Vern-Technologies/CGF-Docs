@@ -29,10 +29,10 @@ To create a new customer, you first need to select on the create customer button
 
 <br/><br/>
 
-With the Create Customer Form opened, enter your customers information and select save once all of your customers information is entered to add your customer to the system.
+With the Create Customer Form opened, enter your customer's information, and select save once all of your customer's information is entered to add your customer to the system.
 
 :::note
-The <Highlight color="#25c2a0">**Days Till Pickup**</Highlight> section in the Create Customer Form denotes the amount of days your container is suppose to stay on your customers site. The amount of days entered till pickup is how the system calculates pickup due dates for containers and notifies you on when a container is past due.
+The <Highlight color="#25c2a0">**Days Till Pickup**</Highlight> section in the Create Customer Form denotes the amount of days your container is supposed to stay on your customers site. The number of days entered till pickup is how the system calculates pickup due dates for containers and notifies you on when a container is past due.
 :::
 
 ##### Create Customer Form
@@ -51,7 +51,7 @@ To remove a customer, you first need to select on the remove customer button to 
 
 <br/><br/>
 
-With the Remove Customer Form opened, select your customer from the Customer dropdown list and select delete to remove your customer from the system. You also have the option of removing your customer's history from your account or not. If you remove your customer's history from your account their history won't be factored in when the system delivers historical based data.
+With the Remove Customer Form opened, select your customer from the Customer dropdown list and select delete to remove your customer from the system. You also have the option of removing your customer's history from your account or not. If you remove your customer's history from your account, their history won't be factored in when the system delivers historical based data.
 
 :::note
 Once a Customer is deleted, this action can't be <Highlight color="#25c2a0">**UNDONE**</Highlight> and the system will no longer process transactions for the deleted customer.

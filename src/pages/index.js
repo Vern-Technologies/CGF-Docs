@@ -29,7 +29,7 @@ const features = [
     imageUrl: 'img/services/IIoT.svg',
     description: (
       <>
-        The Industrial Internet of Things is frowing faster than ever, but integration
+        The Industrial Internet of Things is growing faster than ever, but integration
         IIoT technology into a traditional workplace may seem daunting. CGF will
         decomplicate this process and provide you with a state-of -the-art turnkey
         solution. powered by BehrTech's MYTHINGS™️ platform. It is easy to setup, and easy

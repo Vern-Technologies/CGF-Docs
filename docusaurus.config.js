@@ -37,35 +37,35 @@ module.exports = {
           items: [
             {
               label: 'Company',
-              to: 'https://www.cgf-llc.com/company',
+              to: 'https://www.cgf-llc.com/about-us',
             },
             {
               label: 'Approach',
-              to: 'https://www.cgf-llc.com/company/our-approach',
+              to: 'https://www.cgf-llc.com/our-approach',
             },
             {
               label: 'Events',
-              to: 'https://www.cgf-llc.com/company/our-events',
+              to: 'https://www.cgf-llc.com/about-us-2',
             },
             {
               label: 'Team',
-              to: 'https://www.cgf-llc.com/company/our-team',
+              to: 'https://www.cgf-llc.com/kunden-und-branchen',
             },
             {
               label: 'Partners',
-              to: 'https://www.cgf-llc.com/company/our-partners',
+              to: 'https://www.cgf-llc.com/our-partners',
             },
             {
               label: 'Career Opportunities',
-              to: 'https://www.cgf-llc.com/company/career-opportunities',
+              to: 'https://www.cgf-llc.com/career-opportunities',
             },
             {
               label: 'Webinars',
-              to: 'https://www.cgf-llc.com/company/webinar',
+              to: 'https://www.cgf-llc.com/webinar',
             },
             {
               label: 'Newsletter',
-              to: 'https://www.cgf-llc.com/company/monthly-newsletters',
+              to: 'https://www.cgf-llc.com/monthly-newsletters',
             },
           ],
         },
@@ -82,11 +82,11 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/CGF_LLC',
+              href: 'https://twitter.com/CGF_LLC', 
             },
             {
               label: 'Facebook',
-              href: 'https://www.facebook.com/Counselgroupfrankfurt/',
+              href: 'https://www.facebook.com/Counselgroupfrankfurt/', 
             },
           ],
         },

@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>CGF Documentation Blog</title>
-        <link>https://Vern-Technologies.github.io/blog</link>
+        <link>https://Vern-Technologies.github.io/CGF-Docs/blog</link>
         <description>CGF Documentation Blog</description>
         <lastBuildDate>Fri, 26 Mar 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{75:function(o){o.exports=JSON.parse('{"allTagsPath":"/CGF-Docs/blog/tags","slug":"welcome","name":"welcome","count":1,"permalink":"/CGF-Docs/blog/tags/welcome"}')}}]);

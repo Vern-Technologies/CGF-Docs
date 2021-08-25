@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcgf_docs=self.webpackChunkcgf_docs||[]).push([[39],{1921:function(e){e.exports=JSON.parse('{"welcome":{"allTagsPath":"/CGF-Docs/blog/tags","slug":"welcome","name":"welcome","count":1,"permalink":"/CGF-Docs/blog/tags/welcome"}}')}}]);

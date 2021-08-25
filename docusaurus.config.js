@@ -8,6 +8,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'Vern-Technologies', //GitHub org/user name.
   projectName: 'CGF-Docs', // repo name.
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: 'CGF DOCS',
